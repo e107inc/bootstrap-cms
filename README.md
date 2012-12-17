@@ -1,7 +1,7 @@
 Bootstrap CMS
 =============
 
-If you are looking for a Content Management System (CMS) built with Boostrap, PHP and MySQL, [look no further][1].
+If you are looking for a Content Management System (CMS) built with Boostrap, PHP and MySQL, [You have come to the right place][1].
 
 [Click here][2] to fork or contribute
 
